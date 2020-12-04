@@ -1,0 +1,12 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\bin\Debug\netcoreapp3.1\Day 01 - Report Repair.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\bin\Debug\netcoreapp3.1\Day 04 - Passport Processing.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\obj\Debug\netcoreapp3.1\Day 04 - Passport Processing.csprojAssemblyReference.cache

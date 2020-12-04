@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.exe
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.deps.json
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.runtimeconfig.json
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.dll
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\bin\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.pdb
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.dll
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.pdb
+D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 3 - Toboggan Trajectory\Day 3 - Toboggan Trajectory\obj\Debug\netcoreapp3.1\Day 3 - Toboggan Trajectory.genruntimeconfig.cache
