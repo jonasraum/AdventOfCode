@@ -10,3 +10,4 @@ D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.dll
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.pdb
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 01 - Report Repair\obj\Debug\netcoreapp3.1\Day 01 - Report Repair.csprojAssemblyReference.cache
