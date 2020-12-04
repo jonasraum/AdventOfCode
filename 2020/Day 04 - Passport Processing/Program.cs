@@ -8,7 +8,7 @@ namespace Day_4___Passport_Processing
     {
         static void Main(string[] args)
         {
-            string filePath = @"D:\Jonas\Coding\Challanges\AdventOfCode 2020\Day 4 - Passport Processing\Day 4 - Passport Processing\Day 4 - Input.txt";
+            string filePath = @"D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\Day 04 - Input.txt";
 
 
             string[] lines = File.ReadAllLines(filePath);
