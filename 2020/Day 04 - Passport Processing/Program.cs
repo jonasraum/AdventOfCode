@@ -25,9 +25,6 @@ namespace Day_4___Passport_Processing
 
             bool[] isIncluded = new bool[7];
             int correct = 0;
-            int passportNumber = 1;
-
-
 
             for (int i = 0; i <= lines.Length; i++)
             {
@@ -37,7 +34,6 @@ namespace Day_4___Passport_Processing
                     {
                         correct++;
                     }
-                    passportNumber++;
                     isIncluded = new bool[7];
                 }
                 else
@@ -123,16 +119,25 @@ namespace Day_4___Passport_Processing
             Console.WriteLine(correct + " valid passports");
         }
 
-        private static bool CheckValue(Regex reg, string v, bool rangeInput, int min = 0, int max = 0)
+        /// <summary>
+        /// indicates if the value is acceptable
+        /// </summary>
+        /// <param name="reg">the regular expression how the value should be formatted</param>
+        /// <param name="value">the value that should be verified</param>
+        /// <param name="rangeInput">indicates if the function has to examine a range or if the value just has to adhere to the regex</param>
+        /// <param name="min">minimum of the range</param>
+        /// <param name="max">maximum of the range</param>
+        /// <returns></returns>
+        private static bool CheckValue(Regex reg, string value, bool rangeInput, int min = 0, int max = 0)
         {
             if (rangeInput)
             {
-                if (reg.IsMatch(v) && Convert.ToInt32(v) >= min && Convert.ToInt32(v) <= max)
+                if (reg.IsMatch(value) && Convert.ToInt32(value) >= min && Convert.ToInt32(value) <= max)
                 {
                     return true;
                 }
             }
-            else if (reg.IsMatch(v))
+            else if (reg.IsMatch(value))
             {
                 return true;
             }
