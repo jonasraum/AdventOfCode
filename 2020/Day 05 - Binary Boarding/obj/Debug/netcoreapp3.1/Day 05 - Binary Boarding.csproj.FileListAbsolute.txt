@@ -10,3 +10,4 @@ D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debu
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.dll
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.pdb
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.csprojAssemblyReference.cache

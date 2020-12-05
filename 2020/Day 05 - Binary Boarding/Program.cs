@@ -9,13 +9,12 @@ namespace Day_05___Binary_Boarding
         {
             string filePath = @"D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\Day 05 - Input.txt";
             string[] seats = File.ReadAllLines(filePath);
+            int[] seatIDs = new int[seats.Length];
             int maxSeatID = 0;
-
+            int currentSeat = 0;
 
             Console.WriteLine("Day 05");
             Console.WriteLine("=======");
-
-            Console.WriteLine("\nPart 1:\n");
 
             foreach (string seat in seats)
             {
@@ -37,9 +36,27 @@ namespace Day_05___Binary_Boarding
                 {
                     maxSeatID = seatID;
                 }
+
+                seatIDs[currentSeat] = seatID;
+                currentSeat++;
             }
 
-            Console.WriteLine("\nHighest Seat ID: " + maxSeatID);
+            Array.Sort(seatIDs);
+            int mySeatID = 0;
+
+            for (int i = 1; i < seatIDs.Length - 1; i++)
+            {
+                if (seatIDs[i] == seatIDs[i-1] + 2)
+                {
+                    mySeatID = seatIDs[i] - 1;
+                }
+            }
+
+            Console.WriteLine("\nPart 1:");
+            Console.WriteLine("Highest seat ID: " + maxSeatID);
+
+            Console.WriteLine("\nPart 2:");
+            Console.WriteLine("My seat ID: " + mySeatID);
         }
     }
 }
