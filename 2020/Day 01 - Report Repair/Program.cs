@@ -25,6 +25,11 @@ namespace Day_1___Report_Repair
             Console.WriteLine("Day 01");
             Console.WriteLine("=======");
 
+            /*
+             * This problem can be solved by using the two pointers technique. A guide to this technique can be found here:
+             * https://www.geeksforgeeks.org/two-pointers-technique/
+             */
+
             #region Part 1
 
             Console.WriteLine("\nPart 1:\n");
@@ -54,6 +59,12 @@ namespace Day_1___Report_Repair
             }
 
             #endregion
+
+            /*
+             * The second part can be solved by extending the previously used technique. You just have to set the first element of the array
+             * as a fixed number and try to find two numbers that add up to 2020-fixed number. If there is no combination of two numbers
+             * that fulfill this requirement, the fixed number becomes the next element in the array. Repeat until you found a valid combination.
+             */
 
             #region Part 2
 
