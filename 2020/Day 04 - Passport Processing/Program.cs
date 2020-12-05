@@ -10,8 +10,9 @@ namespace Day_4___Passport_Processing
         {
             string filePath = @"D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 04 - Passport Processing\Day 04 - Input.txt";
 
-
-            string[] lines = File.ReadAllLines(filePath);
+            string allLines = File.ReadAllText(filePath);
+            allLines = allLines.Replace("\r\n", " ");
+            string[] passports = allLines.Split("  ");
             string[] requestedIndex = { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
 
             Console.WriteLine("Day 04");
@@ -24,28 +25,22 @@ namespace Day_4___Passport_Processing
             bool[] isIncluded = new bool[7];
             int correct = 0;
 
-            for (int i = 0; i <= lines.Length; i++)
+            for (int i = 0; i < passports.Length; i++)
             {
-                if (i == lines.Length || lines[i] == "") //checks if the end of a passport is reached
+                for (int j = 0; j < requestedIndex.Length; j++)
                 {
-                    if (Array.TrueForAll(isIncluded, element => element == true))
+                    if (passports[i].Contains(requestedIndex[j]))
                     {
-                        correct++;
-                    }
-                    isIncluded = new bool[7];
-                }
-                else
-                {
-                    //checks the line for every required field
-                    for (int j = 0; j < requestedIndex.Length; j++)
-                    {
-                        if (lines[i].Contains(requestedIndex[j]))
-                        {
-                            isIncluded[j] = true;
-                        }
+                        isIncluded[j] = true;
                     }
                 }
+                if (Array.TrueForAll(isIncluded, element => element == true))
+                {
+                    correct++;
+                }
+                isIncluded = new bool[7];
             }
+
             Console.WriteLine(correct + " valid passports");
 
             #endregion
@@ -66,59 +61,54 @@ namespace Day_4___Passport_Processing
             Regex ecl = new Regex("^amb$|^blu$|^brn$|^gry$|^grn$|^hzl$|^oth$");
             Regex pid = new Regex("^(0+)?[0-9]{9}$");
 
-
-            for (int i = 0; i <= lines.Length; i++)
+            for (int i = 0; i < passports.Length; i++)
             {
-                if (i == lines.Length || lines[i] == "") //checks if the end of a passport is reached
+                string[] fields = passports[i].Split(" ");
+                foreach (string field in fields)
                 {
-                    if (Array.TrueForAll(isIncluded, element => element == true))
-                    {
-                        correct++;
-                    }
-                    isIncluded = new bool[7];
-                }
-                else
-                {
-                    string[] fields = lines[i].Split(" ");
-                    foreach (string field in fields)
-                    {
-                        string[] values = field.Split(":");
+                    string[] values = field.Split(":");
 
-                        //looks at the identifier of the current field
-                        switch (values[0])
-                        {
-                            case "byr":
-                                isIncluded[0] = CheckValue(byr, values[1], true, 1920, 2002);
-                                break;
-                            case "iyr":
-                                isIncluded[1] = CheckValue(iyr, values[1], true, 2010, 2020);
-                                break;
-                            case "eyr":
-                                isIncluded[2] = CheckValue(eyr, values[1], true, 2020, 2030);
-                                break;
-                            case "hgt":
-                                if (values[1].Substring(values[1].Length - 2) == "in")
-                                {
-                                    isIncluded[3] = CheckValue(hgt, values[1].Substring(0, values[1].Length - 2), true, 59, 76);
-                                }
-                                else if (values[1].Substring(values[1].Length - 2) == "cm")
-                                {
-                                    isIncluded[3] = CheckValue(hgt, values[1].Substring(0, values[1].Length - 2), true, 150, 193);
-                                }
-                                break;
-                            case "hcl":
-                                isIncluded[4] = CheckValue(hcl, values[1], false);
-                                break;
-                            case "ecl":
-                                isIncluded[5] = CheckValue(ecl, values[1], false);
-                                break;
-                            case "pid":
-                                isIncluded[6] = CheckValue(pid, values[1], false);
-                                break;
-                        }
+                    //looks at the identifier of the current field
+                    switch (values[0])
+                    {
+                        case "byr":
+                            isIncluded[0] = CheckValue(byr, values[1], true, 1920, 2002);
+                            break;
+                        case "iyr":
+                            isIncluded[1] = CheckValue(iyr, values[1], true, 2010, 2020);
+                            break;
+                        case "eyr":
+                            isIncluded[2] = CheckValue(eyr, values[1], true, 2020, 2030);
+                            break;
+                        case "hgt":
+                            if (values[1].Substring(values[1].Length - 2) == "in")
+                            {
+                                isIncluded[3] = CheckValue(hgt, values[1].Substring(0, values[1].Length - 2), true, 59, 76);
+                            }
+                            else if (values[1].Substring(values[1].Length - 2) == "cm")
+                            {
+                                isIncluded[3] = CheckValue(hgt, values[1].Substring(0, values[1].Length - 2), true, 150, 193);
+                            }
+                            break;
+                        case "hcl":
+                            isIncluded[4] = CheckValue(hcl, values[1], false);
+                            break;
+                        case "ecl":
+                            isIncluded[5] = CheckValue(ecl, values[1], false);
+                            break;
+                        case "pid":
+                            isIncluded[6] = CheckValue(pid, values[1], false);
+                            break;
                     }
                 }
+
+                if (Array.TrueForAll(isIncluded, element => element == true))
+                {
+                    correct++;
+                }
+                isIncluded = new bool[7];
             }
+
             Console.WriteLine(correct + " valid passports");
 
             #endregion
