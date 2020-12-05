@@ -31,21 +31,31 @@ namespace Day_3___Toboggan_Trajectory
             totalTrees *= Convert.ToUInt32(CheckTrees(forrest, 2, 1));
 
             Console.WriteLine("\nTrees multiplied: " + totalTrees);
+        }
 
-            static int CheckTrees(string[] forrest, int x, int y)
+        /// <summary>
+        /// Counts the number of trees encountered
+        /// </summary>
+        /// <param name="forrest">the array representing the forrest</param>
+        /// <param name="x">number of steps taken horzontally</param>
+        /// <param name="y">number of steps taken vertically</param>
+        /// <returns>the number of trees encountered</returns>
+        static int CheckTrees(string[] forrest, int x, int y)
+        {
+            int trees = 0;
+            for (int i = 0; i < forrest.Length; i += x)
             {
-                int trees = 0;
-                for (int i = 0; i < forrest.Length; i += x)
+                /* i (current row) / x (steps down per position change) * y (steps right per position change) = 'total steps right'
+                 * To recieve an index that is insede the array bounds 'total steps right' % 'length of forrest array' has to be calculated because of the constant repetition of the forrest pattern
+                 */
+                if ((forrest[i])[(i / x * y) % forrest[i].Length] == '#')
                 {
-                    if ((forrest[i])[(i/x * y) % forrest[i].Length] == '#')
-                    {
-                        trees++;
-                    }
+                    trees++;
                 }
-                Console.Write($"{x} right, {y} down: ");
-                Console.WriteLine(trees + " trees");
-                return trees;
             }
+            Console.Write($"{x} right, {y} down: ");
+            Console.WriteLine(trees + " trees");
+            return trees;
         }
     }
 }
