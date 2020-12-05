@@ -14,12 +14,10 @@ namespace Day_4___Passport_Processing
             string[] lines = File.ReadAllLines(filePath);
             string[] requestedIndex = { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
 
-            
-
             Console.WriteLine("Day 04");
             Console.WriteLine("=======");
 
-            //Part 1
+            #region Part 1
 
             Console.WriteLine("\nPart 1:");
 
@@ -28,7 +26,7 @@ namespace Day_4___Passport_Processing
 
             for (int i = 0; i <= lines.Length; i++)
             {
-                if (i == lines.Length || lines[i] == "")
+                if (i == lines.Length || lines[i] == "") //checks if the end of a passport is reached
                 {
                     if (Array.TrueForAll(isIncluded, element => element == true))
                     {
@@ -38,6 +36,7 @@ namespace Day_4___Passport_Processing
                 }
                 else
                 {
+                    //checks the line for every required field
                     for (int j = 0; j < requestedIndex.Length; j++)
                     {
                         if (lines[i].Contains(requestedIndex[j]))
@@ -49,13 +48,16 @@ namespace Day_4___Passport_Processing
             }
             Console.WriteLine(correct + " valid passports");
 
-            //Part 2
+            #endregion
+
+            #region Part 2
 
             Console.WriteLine("\nPart 2:");
 
             isIncluded = new bool[7];
             correct = 0;
 
+            //defines the requested syntax of the passport values
             Regex byr = new Regex("^[0-9]{4}$");
             Regex iyr = new Regex("^[0-9]{4}$");
             Regex eyr = new Regex("^[0-9]{4}$");
@@ -67,7 +69,7 @@ namespace Day_4___Passport_Processing
 
             for (int i = 0; i <= lines.Length; i++)
             {
-                if (i == lines.Length || lines[i] == "")
+                if (i == lines.Length || lines[i] == "") //checks if the end of a passport is reached
                 {
                     if (Array.TrueForAll(isIncluded, element => element == true))
                     {
@@ -82,6 +84,7 @@ namespace Day_4___Passport_Processing
                     {
                         string[] values = field.Split(":");
 
+                        //looks at the identifier of the current field
                         switch (values[0])
                         {
                             case "byr":
@@ -93,7 +96,7 @@ namespace Day_4___Passport_Processing
                             case "eyr":
                                 isIncluded[2] = CheckValue(eyr, values[1], true, 2020, 2030);
                                 break;
-                            case "hgt": 
+                            case "hgt":
                                 if (values[1].Substring(values[1].Length - 2) == "in")
                                 {
                                     isIncluded[3] = CheckValue(hgt, values[1].Substring(0, values[1].Length - 2), true, 59, 76);
@@ -117,6 +120,8 @@ namespace Day_4___Passport_Processing
                 }
             }
             Console.WriteLine(correct + " valid passports");
+
+            #endregion
         }
 
         /// <summary>
