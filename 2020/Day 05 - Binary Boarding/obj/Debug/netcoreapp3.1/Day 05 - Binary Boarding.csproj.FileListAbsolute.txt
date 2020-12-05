@@ -1,0 +1,12 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\bin\Debug\netcoreapp3.1\Day 05 - Binary Boarding.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 05 - Binary Boarding\obj\Debug\netcoreapp3.1\Day 05 - Binary Boarding.genruntimeconfig.cache

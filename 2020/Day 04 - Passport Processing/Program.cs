@@ -19,7 +19,7 @@ namespace Day_4___Passport_Processing
             Console.WriteLine("Day 04");
             Console.WriteLine("=======");
 
-            //Teil 1
+            //Part 1
 
             Console.WriteLine("\nPart 1:");
 
@@ -49,7 +49,7 @@ namespace Day_4___Passport_Processing
             }
             Console.WriteLine(correct + " valid passports");
 
-            //Teil 2
+            //Part 2
 
             Console.WriteLine("\nPart 2:");
 

@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 03 - Toboggan Trajector
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 04 - Passport Processing", "Day 04 - Passport Processing\Day 04 - Passport Processing.csproj", "{18FC65AE-89FE-470F-BBC3-3F537FF6C56E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 05 - Binary Boarding", "Day 05 - Binary Boarding\Day 05 - Binary Boarding.csproj", "{87B81A48-FBD7-4C11-9B41-55B4B1739395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{18FC65AE-89FE-470F-BBC3-3F537FF6C56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FC65AE-89FE-470F-BBC3-3F537FF6C56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18FC65AE-89FE-470F-BBC3-3F537FF6C56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B81A48-FBD7-4C11-9B41-55B4B1739395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B81A48-FBD7-4C11-9B41-55B4B1739395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B81A48-FBD7-4C11-9B41-55B4B1739395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B81A48-FBD7-4C11-9B41-55B4B1739395}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
