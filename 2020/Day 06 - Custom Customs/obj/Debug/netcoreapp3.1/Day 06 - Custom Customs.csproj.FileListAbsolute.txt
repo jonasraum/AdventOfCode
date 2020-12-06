@@ -10,3 +10,4 @@ D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.dll
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.pdb
 D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.csprojAssemblyReference.cache

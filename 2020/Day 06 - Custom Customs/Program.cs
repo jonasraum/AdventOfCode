@@ -11,21 +11,39 @@ namespace Day_06___Custom_Customs
             string lines = File.ReadAllText(filePath);
             lines = lines.Replace("\r\n", " ");
             string[] groups = lines.Split("  ");
-            int sumDifferentAnswers = 0;
+            int sumDifferentAnswers = 0, sumSameAnswers = 0;
             string possibleAnswers = "abcdefghijklmnopqrstuvwxyz";
 
 
             foreach (string s in groups)
             {
                 CountDifferentAnswers(s, possibleAnswers, ref sumDifferentAnswers);
+                CountSameAnswers(s, possibleAnswers, ref sumSameAnswers);
             }
-
 
             Console.WriteLine("Day 06");
             Console.WriteLine("=======");
 
             Console.Write("Part 1: ");
             Console.WriteLine(sumDifferentAnswers);
+            Console.WriteLine(sumSameAnswers);
+        }
+
+        private static void CountSameAnswers(string s, string possibleAnswers, ref int sumSameAnswers)
+        {
+            string[] entries = s.Split(" ");
+            for (int i = 0; i < entries.Length; i++)
+            {
+                for (int j = 0; j < possibleAnswers.Length; j++)
+                {
+                    if (!entries[i].Contains(possibleAnswers[j]))
+                    {
+                        possibleAnswers = possibleAnswers.Replace(possibleAnswers[j], '-');
+                    } 
+                }
+            }
+            possibleAnswers = possibleAnswers.Replace("-", "");
+            sumSameAnswers += possibleAnswers.Length;
         }
 
         static void CountDifferentAnswers(string s, string possibleAnswers, ref int sum)
@@ -42,5 +60,7 @@ namespace Day_06___Custom_Customs
             sum += counter;
             counter = 0;
         }
+
+      
     }
 }
