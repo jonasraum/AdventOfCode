@@ -1,0 +1,12 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\bin\Debug\netcoreapp3.1\Day 06 - Custom Customs.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 06 - Custom Customs\obj\Debug\netcoreapp3.1\Day 06 - Custom Customs.genruntimeconfig.cache
