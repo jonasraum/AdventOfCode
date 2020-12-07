@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\bin\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 07 - Handy Haversacks\obj\Debug\netcoreapp3.1\Day 07 - Handy Haversacks.genruntimeconfig.cache
