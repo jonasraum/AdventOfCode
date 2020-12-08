@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\bin\Debug\netcoreapp3.1\Day 08 - Handheld Halting.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 08 - Handheld Halting\obj\Debug\netcoreapp3.1\Day 08 - Handheld Halting.genruntimeconfig.cache

@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 05 - Binary Boarding", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 06 - Custom Customs", "Day 06 - Custom Customs\Day 06 - Custom Customs.csproj", "{4DD1A4E3-ADE9-4DBA-8BE2-0B66C09F3EEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 07 - Handy Haversacks", "Day 07 - Handy Haversacks\Day 07 - Handy Haversacks.csproj", "{1AD0B9E7-7EDC-4F21-B0C7-50CA7109D7F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 07 - Handy Haversacks", "Day 07 - Handy Haversacks\Day 07 - Handy Haversacks.csproj", "{1AD0B9E7-7EDC-4F21-B0C7-50CA7109D7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 08 - Handheld Halting", "Day 08 - Handheld Halting\Day 08 - Handheld Halting.csproj", "{6EFC0969-58A6-44C8-A679-148901085B77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{1AD0B9E7-7EDC-4F21-B0C7-50CA7109D7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AD0B9E7-7EDC-4F21-B0C7-50CA7109D7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AD0B9E7-7EDC-4F21-B0C7-50CA7109D7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EFC0969-58A6-44C8-A679-148901085B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFC0969-58A6-44C8-A679-148901085B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFC0969-58A6-44C8-A679-148901085B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFC0969-58A6-44C8-A679-148901085B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

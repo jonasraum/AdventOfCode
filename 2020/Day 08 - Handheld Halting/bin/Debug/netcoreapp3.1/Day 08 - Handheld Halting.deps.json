@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day 08 - Handheld Halting/1.0.0": {
+        "runtime": {
+          "Day 08 - Handheld Halting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day 08 - Handheld Halting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
