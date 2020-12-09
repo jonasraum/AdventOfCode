@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\bin\Debug\netcoreapp3.1\Day 09 - Encoding Error.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 09 - Encoding Error\obj\Debug\netcoreapp3.1\Day 09 - Encoding Error.csprojAssemblyReference.cache
