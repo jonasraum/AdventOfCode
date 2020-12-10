@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\bin\Debug\netcoreapp3.1\Day 10 - Adapter Array.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 10 - Adapter Array\obj\Debug\netcoreapp3.1\Day 10 - Adapter Array.genruntimeconfig.cache
