@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\bin\Debug\netcoreapp3.1\Day 11 - Seating System.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 11 - Seating System\obj\Debug\netcoreapp3.1\Day 11 - Seating System.genruntimeconfig.cache
