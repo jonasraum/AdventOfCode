@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\bin\Debug\netcoreapp3.1\Day 12 - Rain Risk.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.genruntimeconfig.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 12 - Rain Risk\obj\Debug\netcoreapp3.1\Day 12 - Rain Risk.csprojAssemblyReference.cache
