@@ -19,7 +19,6 @@ namespace Day_12___Rain_Risk
 
             Console.WriteLine("\nPart2:");
             CalculateManhattanDistance(lines, false);
-
         }
 
         static void CalculateManhattanDistance(string[] lines, bool part1)

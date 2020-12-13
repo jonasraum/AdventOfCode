@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 10 - Adapter Array", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 11 - Seating System", "Day 11 - Seating System\Day 11 - Seating System.csproj", "{B870F22E-B8FA-45A2-B9E6-FFAB6E1CD793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 - Rain Risk", "Day 12 - Rain Risk\Day 12 - Rain Risk.csproj", "{90C88186-6674-4ECD-9A3D-30A96FCC8AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 12 - Rain Risk", "Day 12 - Rain Risk\Day 12 - Rain Risk.csproj", "{90C88186-6674-4ECD-9A3D-30A96FCC8AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 13 - Shuttle Search", "Day 13 - Shuttle Search\Day 13 - Shuttle Search.csproj", "{AC4FC6E9-AAC9-4627-A07C-9AC5F6C12999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{90C88186-6674-4ECD-9A3D-30A96FCC8AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90C88186-6674-4ECD-9A3D-30A96FCC8AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90C88186-6674-4ECD-9A3D-30A96FCC8AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4FC6E9-AAC9-4627-A07C-9AC5F6C12999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4FC6E9-AAC9-4627-A07C-9AC5F6C12999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4FC6E9-AAC9-4627-A07C-9AC5F6C12999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4FC6E9-AAC9-4627-A07C-9AC5F6C12999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

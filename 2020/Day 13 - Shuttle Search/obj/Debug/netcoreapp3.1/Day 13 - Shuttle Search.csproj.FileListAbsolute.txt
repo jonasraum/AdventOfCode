@@ -1,0 +1,13 @@
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.exe
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.deps.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.runtimeconfig.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.runtimeconfig.dev.json
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\bin\Debug\netcoreapp3.1\Day 13 - Shuttle Search.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.csprojAssemblyReference.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.AssemblyInfoInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.AssemblyInfo.cs
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.csproj.CoreCompileInputs.cache
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.dll
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.pdb
+D:\Jonas\Coding\Challanges\Advent of Code\2020\Day 13 - Shuttle Search\obj\Debug\netcoreapp3.1\Day 13 - Shuttle Search.genruntimeconfig.cache
